@@ -6,3 +6,4 @@ D:\Back-End\Mindbox\AreaCalculation\obj\Debug\netcoreapp3.1\AreaCalculation.Asse
 D:\Back-End\Mindbox\AreaCalculation\obj\Debug\netcoreapp3.1\AreaCalculation.csproj.CoreCompileInputs.cache
 D:\Back-End\Mindbox\AreaCalculation\obj\Debug\netcoreapp3.1\AreaCalculation.dll
 D:\Back-End\Mindbox\AreaCalculation\obj\Debug\netcoreapp3.1\AreaCalculation.pdb
+D:\Back-End\Mindbox\AreaCalculation\obj\Debug\netcoreapp3.1\AreaCalculation.csprojAssemblyReference.cache
