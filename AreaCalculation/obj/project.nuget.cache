@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCEFxivhG+yT02kYjWiblW0+9/QKDB7NN044SGGxac0pTIXz+SJdZuhOLaAEpjgwmTiY/TrESgn5+Zj2fDE+fQ==",
+  "success": true,
+  "projectFilePath": "D:\\Back-End\\Mindbox\\AreaCalculation\\AreaCalculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
