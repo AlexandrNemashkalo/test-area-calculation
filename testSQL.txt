@@ -1,0 +1,3 @@
+Select item.name as ItemName , category.name as CategoryName  from (item Left Join it_cat On item.id = it_cat.id_it
+				left join category on category.id = it_cat.id_cat)
+				
